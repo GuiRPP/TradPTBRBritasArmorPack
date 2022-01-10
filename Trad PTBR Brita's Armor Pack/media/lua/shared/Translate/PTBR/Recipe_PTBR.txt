@@ -1,0 +1,6 @@
+Recipe_EN = {
+    Recipe_Use_NV18_Harness           = "Colocar Elástico no GPNVG-18",
+    Recipe_Use_NV18_with_Mount        = "Colocar Suporte no GPNVG-18",
+    Recipe_Use_PVS15_Harness          = "Colocar Elástico no AN/PVS-15",
+    Recipe_Use_PVS15_with_Mount       = "Colocar Suporte no AN/PVS-15",
+}

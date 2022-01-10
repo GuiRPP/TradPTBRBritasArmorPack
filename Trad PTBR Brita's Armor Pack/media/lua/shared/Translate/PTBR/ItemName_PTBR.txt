@@ -1,0 +1,97 @@
+ItemName_EN = {
+
+    ItemName_Base.Ela_Jacket                      = "Jaqueta da Ela",
+    ItemName_Base.Ela_Pants                       = "Calça da Ela ",
+    ItemName_Base.Hat_Ela_Hat                     = "Boné Tático da Ela c/ Headset",
+    ItemName_Base.Hat_Ela_Hat_Only                = "Boné Tático da Ela",
+    ItemName_Base.Hat_Ela_Headset                 = "Headset da Ela",
+	
+	ItemName_Base.Suit_Chempak                    = "Traje de Proteção Blauer XRT Gore Chempak CBRN",
+    ItemName_Base.Gorka_Jacket                    = "Jaqueta Bars Gorka 4",
+    ItemName_Base.Gorka_Jacket2                   = "Jaqueta Bars Gorka 4 C/ Camu. de Verão",
+    ItemName_Base.Gorka_Jacket3                   = "Jaqueta Bars Gorka 4 C/ Camu. de Outono",
+    ItemName_Base.Gorka_Pants                     = "Calça Bars Gorka 4",
+    ItemName_Base.Gorka_Pants2                    = "Calça Bars Gorka 4 C/ Camu. de Verão",
+    ItemName_Base.Gorka_Pants3                    = "Calça Bars Gorka 4 C/ Camu. de Outono",
+
+    ItemName_Base.Hat_Killa                       = "Capacete Maska 1Sch do Killa ",
+    ItemName_Base.Hat_Killa_Visor                 = "Viseira do Cap. Maska 1Sch do Killa",
+    ItemName_Base.Hat_Killa_Visor_UP              = "Viseira do Cap. Maska 1Sch do Killa Levantada",
+    ItemName_Base.Killa_Jacket                    = "Jaqueta Adidas do Killa",
+    ItemName_Base.Killa_Pants                     = "Calça Adidas do Killa",
+
+    ItemName_Base.Hat_FM53                        = "Máscara de Gás Avon Protection FM53",
+    ItemName_Base.Hat_M45_GasMask                 = "Máscara de Gás M45",
+    ItemName_Base.Hat_M50                         = "Máscara de Gás Avon Protection M50",
+    ItemName_Base.Hat_MCU_GasMask                 = "Máscara de Gás MCU 2/P",
+
+    ItemName_Base.Bag_Bush                        = "Mochila de Sobrevivência Bushcraft",
+    ItemName_Base.Bag_Hunting                     = "Mochila de Sobrevivência Bushcraft c/ Machado",
+    ItemName_Base.Bag_SSO                         = "Mochila de Assalto SPOSN SSO Bober-M",
+    ItemName_Base.Bag_Savotta                     = "Mochila Savotta Jaakari S",
+    ItemName_Base.Bag_ZIP                         = "Mochila de Assalto da Cidade Y-ZIP",
+    ItemName_Base.Bag_ARVN_Rucksack               = "Mochila ARVN",
+    ItemName_Base.Bag_ST53_Set                    = "Equipamento Avon Protection ST53 SCBA",
+    ItemName_Base.Bag_Radio_Pack                  = "Mochila de Radialista Militar AN/PRC-77",
+    ItemName_Base.Bag_Sniper_Pack                 = "Mochila G3 Phantom Sniper",
+
+    ItemName_Base.Bag_Duty_Belt_Back              = "Cinto de Serviço Policial (Traseiro)",
+    ItemName_Base.Bag_Duty_Belt_Front             = "Cinto de Serviço Policial (Frente)",
+    ItemName_Base.Bag_Tactical_Belt_Back          = "Cinto Tático Fairwin (Traseiro)",
+    ItemName_Base.Bag_Tactical_Belt_Front         = "Cinto Tático Fairwin (Frente)",
+
+    ItemName_Base.Hat_Helmet_Headset              = "Headset para Capacete",
+    ItemName_Base.Hat_Beret_Tactical              = "Boina Militar c/ Headset",
+    ItemName_Base.Hat_Beret_Tactical_Headset      = "Headset Militar",
+    ItemName_Base.Hat_Sordin                      = "Headset Z Tactical Sordin",
+    ItemName_Base.Hat_Astrocom                    = "Headset Militar Astrocom",
+
+
+    ItemName_Base.Bag_Blackhawk                   = "Colete Tático Blackhawk Commando",
+    ItemName_Base.Bag_Blackhawk_Loose             = "Colete Tático Blackhawk Commando (Solto)",
+    ItemName_Base.Bag_D3M                         = "Colete Tático D3M",
+    ItemName_Base.Bag_D3M_Loose                   = "Colete Tático D3M (Solto)",
+    ItemName_Base.Bag_Smersh_Vest                 = "Colete Smersh",
+    ItemName_Base.Bag_Smersh_Vest_Loose           = "Colete Smersh (Solto)",
+
+    ItemName_Base.Armor_6B13                      = "Colete A Prova De Balas 6B13",
+    ItemName_Base.Armor_Defender                  = "Colete A Prova De Balas Defender 2",
+    ItemName_Base.Bag_Plate_Carrier               = "Colete C/ Porta Placa Balística Tático EmersonGear",
+
+    ItemName_Base.Hat_NV18_Harness_OFF            = "Óculos de Visão Noturna GPNVG-18 c/ Elástico (LEVANTADO)",
+    ItemName_Base.Hat_NV18_Harness_ON             = "Óculos de Visão Noturna GPNVG-18 c/ Elástico ",
+    ItemName_Base.Hat_NV18_OFF                    = "Óculos de Visão Noturna GPNVG-18 (LEVANTADO)",
+    ItemName_Base.Hat_NV18_ON                     = "Óculos de Visão Noturna GPNVG-18",
+    ItemName_Base.Hat_PVS15_Harness_OFF           = "Óculos de Visão Noturna AN/PVS-15 c/ Elástico (LEVANTADO)",
+    ItemName_Base.Hat_PVS15_Harness_ON            = "Óculos de Visão Noturna AN/PVS-15 c/ Elástico ",
+    ItemName_Base.Hat_PVS15_OFF                   = "Óculos de Visão Noturna AN/PVS-15 (LEVANTADO)",
+    ItemName_Base.Hat_PVS15_ON                    = "Óculos de Visão Noturna AN/PVS-15",
+    ItemName_Base.Hat_PVS_5                       = "Óculos de Visão Noturna AN/PVS-5",
+    ItemName_Base.Hat_PVS_5_OFF                   = "Óculos de Visão Noturna AN/PVS-5 levantado",
+    ItemName_Base.Glasses_Crewman_Goggles         = "Óculos de Tripulante Tanque",
+    ItemName_Base.Glasses_Crewman_Goggles_OFF     = "Óculos de Tripulante Tanque levantado",
+    ItemName_Base.Glasses_X1000                   = "Óculos Bolle Tactical X1000",
+    ItemName_Base.Glasses_X1000_OFF               = "Óculos Bolle Tactical X1000 levantado",
+    ItemName_Base.Hat_Sam_NV                      = "Óculos de Visão Noturna do Sam Fisher",
+    ItemName_Base.Hat_Sam_NV_OFF                  = "Óculos de Visão Noturna Levantados do Sam Fisher",
+    ItemName_Base.Hat_PVS15                       = "Visão Noturna TES AN/PVS-15",
+    ItemName_Base.Hat_PVS15_UP                    = "Visão Noturna TES AN/PVS-15 Levantado",
+    ItemName_Base.Glasses_Napier                  = "Óculos de Tiro Napier SR-Ricochet",
+
+
+    ItemName_Base.Hat_Maska_Visor                 = "Viseira de Cap. Altyn",
+    ItemName_Base.Hat_Maska_Visor2                = "Viseira de Cap. MASKA-1 SCH",
+    ItemName_Base.Hat_Maska_Visor2_UP             = "Viseira de Cap. MASKA-1 SCH Levantada",
+    ItemName_Base.Hat_Maska_Visor_UP              = "Viseira de Cap. Altyn Levantada",
+    ItemName_Base.Hat_Face_Shield                 = "Viseira de Proteção de Capacete",
+
+
+    ItemName_Base.Hat_FAST_Opscore                = "Capacete Balístico Ops-Core FAST",
+    ItemName_Base.Hat_Gentex_Helmet               = "Capacete de Tripulante de Veículo de Combate Gentex",
+    ItemName_Base.Hat_M1_Helmet                   = "Capacete M1 c/ Camu. Mitchell",
+    ItemName_Base.Hat_M1_Helmet_Ori               = "Capacete M1",
+    ItemName_Base.Hat_Maska                       = "Capacete Rys-T",
+
+    ItemName_Base.Bag_Sniper_Hood                 = "Capuz de Franco-Atirador Viper",
+    ItemName_Base.Hat_Beret_Tactical_Only         = "Boina Militar",
+}
