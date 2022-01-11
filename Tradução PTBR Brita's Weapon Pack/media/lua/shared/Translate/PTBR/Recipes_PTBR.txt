@@ -1,0 +1,4 @@
+Recipe_PTBR = {
+    Recipe_Open_Pack_Bolt_Bear_Pack = "Abrir Pacote de Virotes de Carb. BearX",
+    Recipe_Place_Bolt_Bear_Pack_in_Pack = "Colocar Virotes de Carb. BearX no Pacote",
+}

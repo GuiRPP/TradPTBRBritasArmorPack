@@ -1,0 +1,17 @@
+ItemName_PTBR = {
+    ItemName_Base.BGMachete          = "Machete BG",
+    ItemName_Base.Bolt_Bear          = "Virote de Besta de Carbono BearX",
+    ItemName_Base.Bolt_Bear_Pack     = "Pacote de Virotes de Carb. de Besta BearX",
+    ItemName_Base.Butterfly          = "Canivete Butterfly",
+    ItemName_Base.Cleaning           = "Kit de Limpeza de Armas",
+    ItemName_Base.DingDong           = "Ferramenta de Invasão Gerber Ding-Dong",
+    ItemName_Base.Karambit           = "Faca Karambit",
+    ItemName_Base.KillBill           = "Katana do Hattori Hanzo de Kill Bill",
+    ItemName_Base.MilitaryBaton      = "Cassetete Militar",
+    ItemName_Base.PushDagger         = "Adaga PushDagger",
+    ItemName_Base.RamboKnife         = "Faca Edição Standard 13" Rambo III",
+    ItemName_Base.RussianMachete     = "Machete de Taiga UVSR",
+    ItemName_Base.Tactical_Axe       = "Machado Tático",
+    ItemName_Base.Tactical_Sickle    = "Foice Tática",
+    ItemName_Base.WD                 = "WD40",
+}
